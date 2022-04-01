@@ -1,5 +1,6 @@
 # MLFromScrach
-Implementing some simple Machine Learning algorithms from scrach using Python, Numpy and public DataSets from Kaggle.
+Implementing some simple Machine Learning algorithms from scrach using Python, Numpy and public DataSets from Kaggle.  
+This is a compilation of old repositories that I had, dating back to 2019 and 2020.
 
 ## DataSet links:
 
